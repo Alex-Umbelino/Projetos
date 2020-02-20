@@ -7,8 +7,11 @@ public class hello
 			  
 			  teste dois  
 			 System.out.println("welcome to Brazil");
+			 
+			 System.out.println("welcome to the best  Rock and Roll show!");
+			 
              			 
-			  njhnkjnkn
+			
 			  
          }
 }
